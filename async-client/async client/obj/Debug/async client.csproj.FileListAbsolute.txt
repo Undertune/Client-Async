@@ -1,0 +1,10 @@
+C:\Users\tim.clement\Source\Repos\async-client\async client\bin\Debug\async client.exe.config
+C:\Users\tim.clement\Source\Repos\async-client\async client\bin\Debug\async client.exe
+C:\Users\tim.clement\Source\Repos\async-client\async client\bin\Debug\async client.pdb
+C:\Users\tim.clement\Source\Repos\async-client\async client\obj\Debug\async client.csproj.AssemblyReference.cache
+C:\Users\tim.clement\Source\Repos\async-client\async client\obj\Debug\async_client.Form1.resources
+C:\Users\tim.clement\Source\Repos\async-client\async client\obj\Debug\async_client.Properties.Resources.resources
+C:\Users\tim.clement\Source\Repos\async-client\async client\obj\Debug\async client.csproj.GenerateResource.cache
+C:\Users\tim.clement\Source\Repos\async-client\async client\obj\Debug\async client.csproj.CoreCompileInputs.cache
+C:\Users\tim.clement\Source\Repos\async-client\async client\obj\Debug\async client.exe
+C:\Users\tim.clement\Source\Repos\async-client\async client\obj\Debug\async client.pdb
